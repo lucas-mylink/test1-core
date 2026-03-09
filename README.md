@@ -1,3 +1,1 @@
-# test1-core
-# test1-core
-# test1-core
+# 메인이 되는 공통 레포지토리
